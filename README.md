@@ -1,14 +1,12 @@
-### Hi there 👋
-
----  
+<!--
+Socials
+-->
+<h1 align="center">
 <a href="https://github.com/JamesBuntwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GItHub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/buntwalj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/jimbuntwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/jimmy1260?si=qgmkKv2_SbGWHkMKMFJnSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="My Spotify" height="30" width="40" /></a>
-
-
-
----  
+</h1>
 
 
 
