@@ -1,18 +1,12 @@
-<!--
-Socials
--->
-
 <h1 align="center">
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JamesBuntwal.JamesBuntwal">
 </h1>
-
 <h1 align="center">
 <a href="https://github.com/JamesBuntwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GItHub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/buntwalj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/jimbuntwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/jimmy1260?si=qgmkKv2_SbGWHkMKMFJnSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="My Spotify" height="30" width="40" /></a>
 </h1>
-
 <h1 align="center">
 
 ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python)
@@ -22,6 +16,7 @@ Socials
 ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda)
 ![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure)
 ![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps)
+![Static Badge](https://img.shields.io/badge/Azure_Pipelines--grey?style=social&logo=Azure-Pipelines)
 ![Static Badge](https://img.shields.io/badge/Databricks--grey?style=social&logo=Databricks)
 ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git)
 ![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server)
