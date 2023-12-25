@@ -1,6 +1,11 @@
 <!--
 Socials
 -->
+
+<h1 align="center">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JamesBuntwal.JamesBuntwal">
+</h1>
+
 <h1 align="center">
 <a href="https://github.com/JamesBuntwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GItHub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/buntwalj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
@@ -9,7 +14,7 @@ Socials
 </h1>
 
 <h1 align="center">
-  
+
 ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python)
 ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy)
 ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas)
@@ -36,11 +41,15 @@ Socials
 ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
 ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 </h1>
+
+
+
 <!--
 <h2>
 <p align=center>💧 Data Scientist for Dwr Cymru Welsh Water</p>
 <p align=center>🎸🎾🎵</p>
 </h2>
+
 
 
 **JamesBuntwal/JamesBuntwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
