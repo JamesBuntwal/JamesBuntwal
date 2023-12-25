@@ -14,8 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python)
 ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy)
 ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas)
-![Static Badge](https://img.shields.io/badge/SK_Learn--grey?style=social&logo=scikitlearn)
-![Static Badge](https://img.shields.io/badge/Scipy--grey?style=social&logo=scipy)
+![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn)
+![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy)
 ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda)
 ![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure)
 ![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps)
@@ -49,31 +49,56 @@
   
   </summary>
 
-![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python)
-![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy)
-![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas)
-![Static Badge](https://img.shields.io/badge/SK_Learn--grey?style=social&logo=scikitlearn)
-![Static Badge](https://img.shields.io/badge/Scipy--grey?style=social&logo=scipy)
-![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda)
-![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure)
-![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps)
-![Static Badge](https://img.shields.io/badge/Azure_Pipelines--grey?style=social&logo=Azure-Pipelines)
-![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git)
-![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server)
-![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash)
-![Static Badge](https://img.shields.io/badge/Power_BI--grey?style=social&logo=Power-BI)
-![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel)
-![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint)
-![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams)
-![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook)
-![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
-![Static Badge](https://img.shields.io/badge/Spyder--grey?style=social&logo=Spyder-IDE)
-![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
-
-> - list
-> - list
-> - list
+> ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python) ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy) ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy) ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda) ![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure) ![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps) ![Static Badge](https://img.shields.io/badge/Azure_Pipelines--grey?style=social&logo=Azure-Pipelines) ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git) ![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server) ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash) ![Static Badge](https://img.shields.io/badge/Power_BI--grey?style=social&logo=Power-BI) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word) ![Static Badge](https://img.shields.io/badge/Spyder--grey?style=social&logo=Spyder-IDE) ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
+>
+> ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI\/CD-grey?style=for-the-badge)
+> 
+> - End to end machine learning pipelines for predictive modelling. 
+> - Using data and building tools that solve problems and increase the analytical intelligence that goes into large scale decisioning.
+> - Working with stakeholders to identify problem areas and creating solutions to those problems.
+> - Following Agile methodologies and the CRISP-DM life cycle.
+> 
+> <details>
+> <summary> SRV Bacteria Predictor </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> CSO Monitoring </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Risk Assessment Risk Index </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Property Risk Profile </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Model Monitoring Suite </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Property Risk Profile </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Property Risk Profile </summary>
+> details of project
+> </details>
+>
+> <details>
+> <summary> Property Risk Profile </summary>
+> details of project
+> </details>
 </details>
+
 <details><summary>
   
   ### Scorecard (Credit Risk) Analyst
