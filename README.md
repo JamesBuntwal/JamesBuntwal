@@ -1,4 +1,4 @@
-[![Header](Images/banner.png "Header")]()
+[![Header](Images/banner_cropped.jpg "Header")]()
 
 <h1 align="center">
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JamesBuntwal.JamesBuntwal">
