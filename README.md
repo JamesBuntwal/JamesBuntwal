@@ -63,7 +63,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
   </summary>
 
 > <img src="Images/dcww-logo.svg" height = 100/>
-> 
+> <br><br>
 > 
 > ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python) ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy) ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy) ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda) ![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure) ![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps) ![Static Badge](https://img.shields.io/badge/Azure_Pipelines--grey?style=social&logo=Azure-Pipelines) ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git) ![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server) ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash) ![Static Badge](https://img.shields.io/badge/Power_BI--grey?style=social&logo=Power-BI) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word) ![Static Badge](https://img.shields.io/badge/Spyder--grey?style=social&logo=Spyder-IDE) ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
 >
@@ -128,7 +128,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
   </summary>
 
 > <img src="Images/motonovo-logo.svg" height = 100/>
-> 
+> <br><br>
 >  
 > ![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server) ![Static Badge](https://img.shields.io/badge/SAS--grey?style=social&logo=SAS) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 >
@@ -161,7 +161,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 </summary>
 
 > <img src="Images/wfac-logo-3.jpg" height = 100/>
-> 
+> <br><br>
 >  
 > ![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 >
