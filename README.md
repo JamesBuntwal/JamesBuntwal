@@ -1,7 +1,7 @@
 
 
 <!-- Header Banner Image -->
-[![Header](Images/banner_cropped.jpg "Header")]()
+[![Header](Images/banner_centered.jpg "Header")]()
 ---
 
 
