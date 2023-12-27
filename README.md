@@ -60,7 +60,17 @@
 > 
 > <details>
 > <summary> SRV Bacteria Predictor </summary>
-> details of project
+> 
+> An ensemble model with a Gini Coefficient of 70+ was developed to identify service reservoir assets at risk of ecoli failures to direct manual investigations.
+> Water quality samples are regularly taken from each of the 300+ service reservoirs located across Wales. These samples are analysed and the data uploaded to a centralised database.
+> A legacy model was historically used to identify assets but stakeholders felt its performance had degraded to the point of no longer being fit for purpose.
+> - 10, 000: 1 class imbalance.
+> - Low capacity for on-site investigation required minimal false positives.
+> - 
+> - Interactive Power-BI Dashboard.
+> - SMOTE & TOMEK link resampling.
+> - Supervised Discritisation.
+> - Azure Virtual Machines & DevOps Pipelines.
 > </details>
 >
 > <details>
@@ -110,16 +120,10 @@
   
   </summary>
 
-![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL)
-![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R)
-![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel)
-![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint)
-![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook)
-![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
-
-> - list
-> - list
-> - list
+> ![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
+> - Monitored and forecasted business KPI's
+> - Used 'Google Analytics' to analyse website traffic and product performance.
+> - Created a data driven target setting system for telephony staff performance targets.
 </details>
 
 <!--
