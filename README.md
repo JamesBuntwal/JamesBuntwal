@@ -122,18 +122,30 @@
 </details>
 <details><summary>
   
-  ### Data Analyst
-  #### We Fight Any Claim, 2016 - 2017
+### Data Analyst
+#### We Fight Any Claim, 2016 - 2017
   
-  </summary>
+</summary>
 
 > <img src="Images/wfac-logo-3.jpg" height = 100/>
 > 
 >  
 > ![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
+>
+> <details>
+> <summary> Company </summary>
+>
+> We Fight Any Claim was one of the UK’s most successful Claims Management Companies and proudly helped over 220,000 customers claim back over £600 million in compensation for mis-sold PPI. In August 2019, the Financial Conduct Authority introduced a deadline for making payment protection insurance complaints. From April 2020, We Fight Any Claim ceased claims management services and commenced an extensive exercise to review outstanding accounts and to exchange information with lenders to conclude remaining claim activity for existing customers.
+>
+> </details>
+>
+> <details>
+> <summary> Projects </summary>
+>
 > - Monitored and forecasted business KPI's
 > - Used 'Google Analytics' to analyse website traffic and product performance.
 > - Created a data driven target setting system for telephony staff performance targets.
+> </details>
 </details>
 
 <!--
