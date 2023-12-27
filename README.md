@@ -47,10 +47,10 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 
 <img src="Images/dall-e-about-me.webp"/>
 
-<div align = "center">✈️ Travelling 🧑‍💻 Coding ☕️ Coffee </div> 
-<div align = "center">💻 Gadgets & Technology 🏞️ The Outdoors </div>
-<div align = "center">🏉 Rugby 🎾 Tennis 🎸 Guitar 🎧 Music </div>
-<div align = "center">🐈‍⬛ Cats 🐕 Dogs 👨‍👨‍👧‍👦 Family & Friends</div>
+<div align = "center">✈️ Travelling 🧑‍💻 Coding ☕️ Coffee 💻 Gadgets & Technology</div> 
+<div align = "center">🏞️ The Outdoors 🏉 Rugby 🎾 Tennis 🐈‍⬛ Cats 🐕 Dogs</div>
+<div align = "center">🎸 Guitar 🎧 Music 👨‍👨‍👧‍👦 Family & Friends</div>
+
 
 
 ## Data Science & Analytics Experience
@@ -69,30 +69,35 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 >
 > ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI\/CD-grey?style=for-the-badge)
 > 
+> <details><summary>Company</summary>
+>
+> </details>
+>
+> <details><summary>Projects</summary>
+>
 > - End to end machine learning pipelines for predictive modelling. 
 > - Using data and building tools that solve problems and increase the analytical intelligence that goes into large scale decisioning.
 > - Working with stakeholders to identify problem areas and creating solutions to those problems.
 > - Following Agile methodologies and the CRISP-DM life cycle.
 > 
-> <details>
-> <summary> SRV Bacteria Predictor </summary>
-> 
-> An ensemble model with a Gini Coefficient of 70+ was developed to identify service reservoir assets at risk of ecoli failures to direct manual investigations.
-> Water quality samples are regularly taken from each of the 300+ service reservoirs located across Wales. These samples are analysed and the data uploaded to a centralised database.
-> A legacy model was historically used to identify assets but stakeholders felt its performance had degraded to the point of no longer being fit for purpose.
-> - 10, 000: 1 class imbalance.
-> - Low capacity for on-site investigation required minimal false positives.
-> - 
-> - Interactive Power-BI Dashboard.
-> - SMOTE & TOMEK link resampling.
-> - Supervised Discritisation.
-> - Azure Virtual Machines & DevOps Pipelines.
-> </details>
+> > <details>
+> > <summary> SRV Bacteria Predictor </summary>
+> > 
+> > An ensemble model with a Gini Coefficient of 70+ was developed to identify service reservoir assets at risk of ecoli failures to direct manual investigations.
+> > Water quality samples are regularly taken from each of the 300+ service reservoirs located across Wales. These samples are analysed and the data uploaded to a centralised database.
+> > A legacy model was historically used to identify assets but stakeholders felt its performance had degraded to the point of no longer being fit for purpose.
+> > - 10, 000: 1 class imbalance.
+> > - Low capacity for on-site investigation required minimal false positives.
+> > - Interactive Power-BI Dashboard.
+> > - SMOTE & TOMEK link resampling.
+> > - Supervised Discritisation.
+> > - Azure Virtual Machines & DevOps Pipelines.
+> > </details>
 >
-> <details>
-> <summary> CSO Monitoring </summary>
-> details of project
-> </details>
+> > <details>
+> > <summary> CSO Monitoring </summary>
+> > details of project
+> > </details>
 >
 > <details>
 > <summary> Risk Assessment Risk Index </summary>
@@ -109,6 +114,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > details of project
 > </details>
 >
+> </details>
 </details>
 
 <details><summary>
