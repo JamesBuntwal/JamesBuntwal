@@ -41,8 +41,7 @@
 
 ## About Me
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> <img src="Images/dcww-logo.svg" height = 100/>
 
 
 ## Data Science & Analytics Experience
