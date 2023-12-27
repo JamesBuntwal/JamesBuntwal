@@ -106,9 +106,9 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 
 <details><summary>
   
-  ### Scorecard (Credit Risk) Analyst
+### Scorecard (Credit Risk) Analyst
   
-  #### MotoNovo Finance, 2017 - 2019
+#### MotoNovo Finance, 2017 - 2019
 
   </summary>
 
@@ -119,12 +119,24 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 >
 > ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Dataset_Design-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Automation-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Reporting-grey?style=for-the-badge)
 >
+> <details>
+> <summary> Company </summary>
+>
+> Company details
+> 
+> </details>
+>
+> <details>
+> <summary> Projects </summary>
+>
 > Building and monitoring credit risk models; predominantly logistic regressions and decision trees.
+> 
 > - Loan Application Models
 > - Behavioural Models (Roll, Recovery etc.)
 > - Customer Affordability Models
 > - Significant Increase in Credit Risk (SICR) (Regulatory)
 > - Propensity to Purchase GAP Insurance
+> </details>
 </details>
 <details><summary>
   
