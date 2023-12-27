@@ -122,7 +122,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > <details>
 > <summary> Company </summary>
 >
-> Company details
+> One of the UK's fastest growing independent finance companies, helping thousands of people fund the purchases of cars, vans, and bikes. Working with thousands of dealer partners across the UK, they've been in the industry for over 40 years and are now part of the Aldermore Group.
 > 
 > </details>
 >
