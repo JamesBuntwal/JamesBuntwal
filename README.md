@@ -39,11 +39,18 @@
 ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
 </h1>
 
+
+
 ## About Me
 
 Here's a DALL-E generated image that tries to capture a few of my hobbies and interests!
 
 <img src="Images/dall-e-about-me.webp"/>
+
+<div align = "center">✈️ Travelling 🧑‍💻 Coding ☕️ Coffee </div> 
+<div align = "center">💻 Gadgets & Technology 🏞️ The Outdoors </div>
+<div align = "center">🏉 Rugby 🎾 Tennis 🎸 Guitar 🎧 Music </div>
+<div align = "center">🐈‍⬛ Cats 🐕 Dogs 👨‍👨‍👧‍👦 Family & Friends</div>
 
 
 ## Data Science & Analytics Experience
@@ -150,6 +157,8 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 >  
 > ![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 >
+> ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Reporting-grey?style=for-the-badge)
+> 
 > <details>
 > <summary> Company </summary>
 >
