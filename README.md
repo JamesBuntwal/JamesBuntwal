@@ -41,7 +41,9 @@
 
 ## About Me
 
-> <img src="Images/dcww-logo.svg" height = 100/>
+Here's a DALL-E generated image that tries to capture a few of my hobbies and interests!
+
+<img src="Images/dall-e-about-me.webp"/>
 
 
 ## Data Science & Analytics Experience
