@@ -39,6 +39,11 @@
 ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
 </h1>
 
+## About Me
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 
 ## Data Science & Analytics Experience
 
