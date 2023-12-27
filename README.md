@@ -129,7 +129,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > <details>
 > <summary> Projects </summary>
 >
-> Building and monitoring credit risk models; predominantly logistic regressions and decision trees.
+> Building and monitoring credit risk models; predominantly logistic regressions and decision trees, and Customer analytics.
 > 
 > - Loan Application Models
 > - Behavioural Models (Roll, Recovery etc.)
