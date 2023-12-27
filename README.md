@@ -98,10 +98,14 @@
 <details><summary>
   
   ### Scorecard (Credit Risk) Analyst
-  #### MotoNovo Finance, 2017 - 2019
   
+  #### MotoNovo Finance, 2017 - 2019
+
   </summary>
 
+> <img src="Images/motonovo-logo.svg" width = 200/>
+> 
+>  
 > ![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server) ![Static Badge](https://img.shields.io/badge/SAS--grey?style=social&logo=SAS) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 >
 > ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Dataset_Design-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Automation-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Reporting-grey?style=for-the-badge)
@@ -120,6 +124,9 @@
   
   </summary>
 
+> <img src="Images/wfac-logo-3.jpg" width = 200/>
+> 
+>  
 > ![Static Badge](https://img.shields.io/badge/MySQL--grey?style=social&logo=MySQL) ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word)
 > - Monitored and forecasted business KPI's
 > - Used 'Google Analytics' to analyse website traffic and product performance.
