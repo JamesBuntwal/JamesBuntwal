@@ -70,11 +70,33 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 
 ## Data Science & Analytics Experience
 
+
+<details><summary>
+  <a align="left">
+    
+  ### Senior Data Scientist
+  #### Crimtan, 2024 - Present
+  </a>
+</summary>
+  
+> <details>
+> <summary> Company </summary>
+>
+> 
+> 
+> </details>
+>
+> <details>
+> <summary> Projects </summary>
+>
+> </details>
+</details>
+
 <details><summary>
   <a align="left">
     
   ### Data Scientist
-  #### Dwr Cymru Welsh Water, 2019 - Present
+  #### Dwr Cymru Welsh Water, 2019 - 2024
   </a>
   
 </summary><a><img src="Images/dcww-logo.svg" width="400" align="right"></a>
