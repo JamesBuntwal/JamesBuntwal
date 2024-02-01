@@ -105,6 +105,9 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > > An ensemble model with a Gini Coefficient of 70+ was developed to identify service reservoir assets at risk of ecoli failures to direct manual investigations.
 > > Water quality samples are regularly taken from each of the 300+ service reservoirs located across Wales. These samples are analysed and the data uploaded to a centralised database.
 > > A legacy model was historically used to identify assets but stakeholders felt its performance had degraded to the point of no longer being fit for purpose.
+> > This model redevelopment project included: 
+> > - Extensive EDA.
+> > - Data drift analysis.
 > > - 10, 000: 1 class imbalance.
 > > - Low capacity for on-site investigation required minimal false positives.
 > > - Interactive Power-BI Dashboard.
@@ -112,12 +115,19 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > > - Supervised Discritisation.
 > > - Azure Virtual Machines & DevOps Pipelines.
 > > </details>
->
+> > 
 > > <details>
-> > <summary> CSO Monitoring </summary>
-> > details of project
+> > <summary> Other Projects </summary>
+> > 
+> > - CSO Monitoring
+> > - Risk Assessment Risk Index
+> > - Property Risk Profile
+> > - Model Monitoring Suite
 > > </details>
->
+> </details>
+</details>
+
+<!--
 > > <details>
 > > <summary> Risk Assessment Risk Index </summary>
 > > details of project
@@ -133,8 +143,8 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > > details of project
 > > </details>
 >
-> </details>
-</details>
+>  -->
+
 
 <details><summary>
   
