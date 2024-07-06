@@ -77,6 +77,9 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
   ### Senior Data Scientist
   #### Crimtan, 2024 - Present
   </a>
+
+  </summary><a><img src="Images/dcww-logo.svg" width="400" align="right"></a>
+  
 </summary>
   
 > <details>
