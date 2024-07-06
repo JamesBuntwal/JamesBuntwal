@@ -86,7 +86,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > 
 > <details><summary>Company</summary>
 >
-> 
+> Crimtan is an ad tech company established with a mission to simplify the complex world of programmatic advertising. The company provides a comprehensive lifecycle marketing solution that integrates consent, planning, targeting, and measurement using its proprietary technology. Crimtan delivers tailored, high-performing campaigns across various industries globally. They focus on transparency and compliance, ensuring customer privacy while achieving exceptional return on investment.
 > 
 > </details>
 >
