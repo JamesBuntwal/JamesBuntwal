@@ -92,7 +92,9 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 >
 > <details>
 > <summary> Projects </summary>
-> - Click Fraud detection.
+>
+> - Click Fraud detection - Reverse engineer a third party's click validity flag.
+>
 > </details>
 </details>
 
