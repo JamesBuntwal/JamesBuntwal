@@ -67,6 +67,12 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 <div align = "center">🏞️ The Outdoors 🏉 Rugby 🎾 Tennis 🐈‍⬛ Cats 🐕 Dogs</div>
 <div align = "center">🎸 Guitar 🎧 Music 👨‍👨‍👧‍👦 Family & Friends</div>
 
+## Recent Projects
+While the majority of my work cannot be shared due to it being proprietary to the companies I've worked for, I try to upload projects that I can make public here. Please see the links and descriptions below.
+
+### Property Data Analysis
+This was a piece of analysis I undertook as part of an application to a Senior Data Scientist role. I received excellent feedback.
+- [Property Data Analysis Repo]()
 
 
 ## Data Science & Analytics Experience
@@ -76,7 +82,7 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
   <a align="left">
     
   ### Senior Data Scientist
-  #### Crimtan, 2024 - Present
+  #### Crimtan, Feb 2024 - July 2024
   </a>
 
 </summary><a><img src="Images/crimtanlogo.png" width="400" align="right"></a>
@@ -84,6 +90,8 @@ Here's a DALL-E generated image that tries to capture a few of my hobbies and in
 > ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python) ![Static Badge](https://img.shields.io/badge/Apache%20Spark--grey?style=social&logo=ApacheSpark) ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy) ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy) ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda) ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git) ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word) ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
 >
 > ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI\/CD-grey?style=for-the-badge)
+>
+> Unfortunately I was mad redundant from this role in July 2024.
 > 
 > <details><summary>Company</summary>
 >
