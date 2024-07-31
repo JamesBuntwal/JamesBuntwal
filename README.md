@@ -72,7 +72,7 @@ While the majority of my work cannot be shared due to it being proprietary to th
 
 ### Property Data Analysis
 This was a piece of analysis I undertook as part of an application to a Senior Data Scientist role. I received excellent feedback.
-- [Property Data Analysis Repo]()
+- [Property Data Analysis Repo](https://github.com/JamesBuntwal/PropertyDataAnalysis)
 
 
 ## Data Science & Analytics Experience
