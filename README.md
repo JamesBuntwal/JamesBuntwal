@@ -74,6 +74,12 @@ While the majority of my work cannot be shared due to it being proprietary to th
 This was a piece of analysis I undertook as part of an application to a Senior Data Scientist role. I received excellent feedback.
 - [Property Data Analysis Repo](https://github.com/JamesBuntwal/PropertyDataAnalysis)
 
+### ManageDT
+
+This is a small module that contains a class I frequently used whilst working at Crimtan. We used hourly partitions within the hive database so I created this class to more conveniently manage the use of these partitions. It contains useful type conversions and various methods for iteration. It significantly reduced the bulkiness of my data manipulation code.
+- (ManageDT Repo)[]
+
+
 
 ## Data Science & Analytics Experience
 
