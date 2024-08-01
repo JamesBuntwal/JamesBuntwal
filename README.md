@@ -75,12 +75,6 @@ While the majority of my work cannot be shared due to it being proprietary to th
 > This was a piece of analysis I undertook as part of an application to a Senior Data Scientist role. I received excellent feedback.
 
 
-> <b>[ManageDT](https://github.com/JamesBuntwal/ManageDT)</b>
-> 
-> This is a small module that contains a class I frequently used whilst working at Crimtan. We used hourly partitions within the hive database so I created this class to more conveniently manage the use of these partitions. It contains useful type conversions, simple arithmetic, and various methods for iteration. It significantly reduced the bulkiness of my data manipulation code.
-
-
-
 ## Data Science & Analytics Experience
 
 
