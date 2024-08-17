@@ -91,7 +91,7 @@ While the majority of my work cannot be shared due to it being proprietary to th
 >
 > ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI\/CD-grey?style=for-the-badge)
 >
-> Unfortunately I was mad redundant from this role in July 2024.
+> Unfortunately I was made redundant from this role in July 2024.
 > 
 > <details><summary>Company</summary>
 >
