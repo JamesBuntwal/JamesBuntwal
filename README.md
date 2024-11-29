@@ -77,6 +77,33 @@ While the majority of my work cannot be shared due to it being proprietary to th
 
 ## Data Science & Analytics Experience
 
+<details><summary>
+  <a align="left">
+    
+  ### Senior Data Scientist
+  #### Kallidus, Nov 2024 - Present
+  </a>
+
+</summary><a><img src="Images/kalliduslogo.png" width="400" align="right"></a>
+
+> ![Static Badge](https://img.shields.io/badge/Python--grey?style=social&logo=python) ![Static Badge](https://img.shields.io/badge/Apache%20Spark--grey?style=social&logo=ApacheSpark) ![Static Badge](https://img.shields.io/badge/Numpy--grey?style=social&logo=numpy) ![Static Badge](https://img.shields.io/badge/Pandas--grey?style=social&logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy) ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda) ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git) ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash) ![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel) ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint) ![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams) ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook) ![Static Badge](https://img.shields.io/badge/Word--grey?style=social&logo=Microsoft-Word) ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
+>
+> ![Static Badge](https://img.shields.io/badge/Data_Handling-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Analysis-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Statistics-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CI\/CD-grey?style=for-the-badge)
+> 
+> <details><summary>Company</summary>
+>
+> Kallidus specialises in developing cutting-edge HR and learning software that helps businesses manage their people more effectively. Their solutions include tools for recruitment, onboarding, learning and development, performance management, and employee engagement. Their goal is to simplify and enhance the employee experience while driving growth and productivity for organizations. It’s all about empowering companies to support and develop their teams at every stage of the employee journey.
+> 
+> </details>
+>
+> <details>
+> <summary> Projects </summary>
+>
+> - Customer Churn.
+>
+> </details>
+</details>
+
 
 <details><summary>
   <a align="left">
