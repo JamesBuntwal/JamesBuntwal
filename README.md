@@ -99,7 +99,10 @@ While the majority of my work cannot be shared due to it being proprietary to th
 > <details>
 > <summary> Projects </summary>
 >
-> - Customer Churn.
+> - Customer Churn per Product (Binary Classification).
+> - Lesson Recommender System (Single Value Decomposition).
+> - LLM output analysis.
+  
 >
 > </details>
 </details>
