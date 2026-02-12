@@ -39,7 +39,7 @@
 [![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
 ![Static Badge](https://img.shields.io/badge/Databricks--grey?style=social&logo=Databricks)
 ![Static Badge](https://img.shields.io/badge/Git--grey?style=social&logo=Git)
-![Static Badge](https://img.shields.io/badge/MS_SQL--grey?style=social&logo=Microsoft-SQL-Server)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R)
 ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash)
 ![Static Badge](https://img.shields.io/badge/LaTeX--grey?style=social&logo=LaTeX)
