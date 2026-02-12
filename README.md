@@ -34,6 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/Scikit_Learn--grey?style=social&logo=scikitlearn)
 ![Static Badge](https://img.shields.io/badge/SciPy--grey?style=social&logo=scipy)
 ![Static Badge](https://img.shields.io/badge/Conda--grey?style=social&logo=Anaconda)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 ![Static Badge](https://img.shields.io/badge/Azure--grey?style=social&logo=Microsoft-Azure)
 ![Static Badge](https://img.shields.io/badge/DevOps--grey?style=social&logo=Azure-DevOps)
 ![Static Badge](https://img.shields.io/badge/Azure_Pipelines--grey?style=social&logo=Azure-Pipelines)
