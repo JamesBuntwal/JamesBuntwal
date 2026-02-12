@@ -43,7 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/R--grey?style=social&logo=R)
 ![Static Badge](https://img.shields.io/badge/Bash--grey?style=social&logo=GNU-Bash)
 ![Static Badge](https://img.shields.io/badge/LaTeX--grey?style=social&logo=LaTeX)
-![Static Badge](https://img.shields.io/badge/Power_BI--grey?style=social&logo=Power-BI)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 ![Static Badge](https://img.shields.io/badge/Mac_OS--grey?style=social&logo=Apple)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
