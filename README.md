@@ -54,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/VS_Code--grey?style=social&logo=Visual-Studio-Code)
 ![Static Badge](https://img.shields.io/badge/Spyder--grey?style=social&logo=Spyder-IDE)
 ![Static Badge](https://img.shields.io/badge/Jupyter--grey?style=social&logo=Jupyter)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 </h1>
 
 
