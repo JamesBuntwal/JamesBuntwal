@@ -46,7 +46,7 @@
 ![Static Badge](https://img.shields.io/badge/Power_BI--grey?style=social&logo=Power-BI)
 ![Static Badge](https://img.shields.io/badge/Mac_OS--grey?style=social&logo=Apple)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-![Static Badge](https://img.shields.io/badge/Excel--grey?style=social&logo=Microsoft-Excel)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Powerpoint--grey?style=social&logo=Microsoft-Powerpoint)
 ![Static Badge](https://img.shields.io/badge/Teams--grey?style=social&logo=Microsoft-Teams)
 ![Static Badge](https://img.shields.io/badge/Outlook--grey?style=social&logo=Microsoft-Outlook)
